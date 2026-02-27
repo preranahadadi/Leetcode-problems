@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/preranahadadi/Leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/preranahadadi/Leetcode-problems/tree/master/0036-valid-sudoku) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/preranahadadi/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/preranahadadi/Leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/preranahadadi/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
 ## Prefix Sum
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/preranahadadi/Leetcode-problems/tree/master/0036-valid-sudoku) |
+| [0128-longest-consecutive-sequence](https://github.com/preranahadadi/Leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 ## Matrix
 |  |
 | ------- |
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1251-average-selling-price](https://github.com/preranahadadi/Leetcode-problems/tree/master/1251-average-selling-price) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/preranahadadi/Leetcode-problems/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/preranahadadi/Leetcode-problems/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/preranahadadi/Leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
