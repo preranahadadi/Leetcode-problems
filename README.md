@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/preranahadadi/Leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/preranahadadi/Leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0238-product-of-array-except-self](https://github.com/preranahadadi/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
+| [0739-daily-temperatures](https://github.com/preranahadadi/Leetcode-problems/tree/master/0739-daily-temperatures) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -69,8 +70,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/preranahadadi/Leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/preranahadadi/Leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0739-daily-temperatures](https://github.com/preranahadadi/Leetcode-problems/tree/master/0739-daily-temperatures) |
 ## Math
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/preranahadadi/Leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/preranahadadi/Leetcode-problems/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
