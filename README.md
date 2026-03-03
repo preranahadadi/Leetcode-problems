@@ -99,4 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/preranahadadi/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/preranahadadi/Leetcode-problems/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/preranahadadi/Leetcode-problems/tree/master/0875-koko-eating-bananas) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/preranahadadi/Leetcode-problems/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/preranahadadi/Leetcode-problems/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
