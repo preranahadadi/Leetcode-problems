@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1251-average-selling-price](https://github.com/preranahadadi/Leetcode-problems/tree/master/1251-average-selling-price) |
 | [1341-movie-rating](https://github.com/preranahadadi/Leetcode-problems/tree/master/1341-movie-rating) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/preranahadadi/Leetcode-problems/tree/master/1633-percentage-of-users-attended-a-contest) |
+| [1667-fix-names-in-a-table](https://github.com/preranahadadi/Leetcode-problems/tree/master/1667-fix-names-in-a-table) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/preranahadadi/Leetcode-problems/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1907-count-salary-categories](https://github.com/preranahadadi/Leetcode-problems/tree/master/1907-count-salary-categories) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/preranahadadi/Leetcode-problems/tree/master/1978-employees-whose-manager-left-the-company) |
