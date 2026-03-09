@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/preranahadadi/Leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0219-contains-duplicate-ii](https://github.com/preranahadadi/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/preranahadadi/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
+| [0682-baseball-game](https://github.com/preranahadadi/Leetcode-problems/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/preranahadadi/Leetcode-problems/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/preranahadadi/Leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/preranahadadi/Leetcode-problems/tree/master/0739-daily-temperatures) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/preranahadadi/Leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/preranahadadi/Leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0682-baseball-game](https://github.com/preranahadadi/Leetcode-problems/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/preranahadadi/Leetcode-problems/tree/master/0739-daily-temperatures) |
 ## Math
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/preranahadadi/Leetcode-problems/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/preranahadadi/Leetcode-problems/tree/master/1929-concatenation-of-array) |
 ## Trie
 |  |
