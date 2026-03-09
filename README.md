@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/preranahadadi/Leetcode-problems/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/preranahadadi/Leetcode-problems/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/preranahadadi/Leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
+| [0735-asteroid-collision](https://github.com/preranahadadi/Leetcode-problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/preranahadadi/Leetcode-problems/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/preranahadadi/Leetcode-problems/tree/master/0875-koko-eating-bananas) |
 | [1248-count-number-of-nice-subarrays](https://github.com/preranahadadi/Leetcode-problems/tree/master/1248-count-number-of-nice-subarrays) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/preranahadadi/Leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/preranahadadi/Leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/preranahadadi/Leetcode-problems/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/preranahadadi/Leetcode-problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/preranahadadi/Leetcode-problems/tree/master/0739-daily-temperatures) |
 ## Math
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/preranahadadi/Leetcode-problems/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/preranahadadi/Leetcode-problems/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/preranahadadi/Leetcode-problems/tree/master/1929-concatenation-of-array) |
 ## Trie
 |  |
