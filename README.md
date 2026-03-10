@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/preranahadadi/Leetcode-problems/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/preranahadadi/Leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/preranahadadi/Leetcode-problems/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/preranahadadi/Leetcode-problems/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/preranahadadi/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/preranahadadi/Leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1248-count-number-of-nice-subarrays](https://github.com/preranahadadi/Leetcode-problems/tree/master/1248-count-number-of-nice-subarrays) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/preranahadadi/Leetcode-problems/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/preranahadadi/Leetcode-problems/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/preranahadadi/Leetcode-problems/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -156,4 +158,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/preranahadadi/Leetcode-problems/tree/master/0014-longest-common-prefix) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/preranahadadi/Leetcode-problems/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/preranahadadi/Leetcode-problems/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
