@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/preranahadadi/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/preranahadadi/Leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/preranahadadi/Leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/preranahadadi/Leetcode-problems/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/preranahadadi/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/preranahadadi/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0682-baseball-game](https://github.com/preranahadadi/Leetcode-problems/tree/master/0682-baseball-game) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/preranahadadi/Leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/preranahadadi/Leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/preranahadadi/Leetcode-problems/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/preranahadadi/Leetcode-problems/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/preranahadadi/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/preranahadadi/Leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1248-count-number-of-nice-subarrays](https://github.com/preranahadadi/Leetcode-problems/tree/master/1248-count-number-of-nice-subarrays) |
@@ -235,4 +237,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/preranahadadi/Leetcode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/preranahadadi/Leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/preranahadadi/Leetcode-problems/tree/master/0701-insert-into-a-binary-search-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/preranahadadi/Leetcode-problems/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/preranahadadi/Leetcode-problems/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/preranahadadi/Leetcode-problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
