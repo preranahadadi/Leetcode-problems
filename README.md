@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/preranahadadi/Leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/preranahadadi/Leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/preranahadadi/Leetcode-problems/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/preranahadadi/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/preranahadadi/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/preranahadadi/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0682-baseball-game](https://github.com/preranahadadi/Leetcode-problems/tree/master/0682-baseball-game) |
@@ -249,12 +250,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/preranahadadi/Leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/preranahadadi/Leetcode-problems/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/preranahadadi/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/preranahadadi/Leetcode-problems/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/preranahadadi/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/preranahadadi/Leetcode-problems/tree/master/0169-majority-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/preranahadadi/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/preranahadadi/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
