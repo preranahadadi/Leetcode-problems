@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/preranahadadi/Leetcode-problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/preranahadadi/Leetcode-problems/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/preranahadadi/Leetcode-problems/tree/master/0875-koko-eating-bananas) |
+| [0973-k-closest-points-to-origin](https://github.com/preranahadadi/Leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/preranahadadi/Leetcode-problems/tree/master/1046-last-stone-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/preranahadadi/Leetcode-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1929-concatenation-of-array](https://github.com/preranahadadi/Leetcode-problems/tree/master/1929-concatenation-of-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/preranahadadi/Leetcode-problems/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/preranahadadi/Leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0973-k-closest-points-to-origin](https://github.com/preranahadadi/Leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/preranahadadi/Leetcode-problems/tree/master/1248-count-number-of-nice-subarrays) |
 ## Monotonic Stack
 |  |
@@ -252,11 +254,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/preranahadadi/Leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/preranahadadi/Leetcode-problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/preranahadadi/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/preranahadadi/Leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/preranahadadi/Leetcode-problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/preranahadadi/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/preranahadadi/Leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 ## Counting
 |  |
 | ------- |
@@ -265,9 +269,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/preranahadadi/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/preranahadadi/Leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/preranahadadi/Leetcode-problems/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/preranahadadi/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/preranahadadi/Leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/preranahadadi/Leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
