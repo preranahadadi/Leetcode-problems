@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/preranahadadi/Leetcode-problems/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/preranahadadi/Leetcode-problems/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/preranahadadi/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/preranahadadi/Leetcode-problems/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/preranahadadi/Leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/preranahadadi/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/preranahadadi/Leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
@@ -280,4 +281,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/preranahadadi/Leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/preranahadadi/Leetcode-problems/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/preranahadadi/Leetcode-problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
