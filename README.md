@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/preranahadadi/Leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/preranahadadi/Leetcode-problems/tree/master/1046-last-stone-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/preranahadadi/Leetcode-problems/tree/master/1248-count-number-of-nice-subarrays) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/preranahadadi/Leetcode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1929-concatenation-of-array](https://github.com/preranahadadi/Leetcode-problems/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/preranahadadi/Leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0973-k-closest-points-to-origin](https://github.com/preranahadadi/Leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/preranahadadi/Leetcode-problems/tree/master/1248-count-number-of-nice-subarrays) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/preranahadadi/Leetcode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -285,8 +287,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/preranahadadi/Leetcode-problems/tree/master/0078-subsets) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/preranahadadi/Leetcode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/preranahadadi/Leetcode-problems/tree/master/0078-subsets) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/preranahadadi/Leetcode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/preranahadadi/Leetcode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/preranahadadi/Leetcode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
