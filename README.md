@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/preranahadadi/Leetcode-problems/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/preranahadadi/Leetcode-problems/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/preranahadadi/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/preranahadadi/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/preranahadadi/Leetcode-problems/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/preranahadadi/Leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/preranahadadi/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/preranahadadi/Leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/preranahadadi/Leetcode-problems/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/preranahadadi/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/preranahadadi/Leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/preranahadadi/Leetcode-problems/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/preranahadadi/Leetcode-problems/tree/master/0680-valid-palindrome-ii) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/preranahadadi/Leetcode-problems/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/preranahadadi/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/preranahadadi/Leetcode-problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/preranahadadi/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/preranahadadi/Leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
