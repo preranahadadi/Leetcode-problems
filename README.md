@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/preranahadadi/Leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/preranahadadi/Leetcode-problems/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/preranahadadi/Leetcode-problems/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/preranahadadi/Leetcode-problems/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/preranahadadi/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/preranahadadi/Leetcode-problems/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/preranahadadi/Leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/preranahadadi/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/preranahadadi/Leetcode-problems/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/preranahadadi/Leetcode-problems/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/preranahadadi/Leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/preranahadadi/Leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/preranahadadi/Leetcode-problems/tree/master/0141-linked-list-cycle) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/preranahadadi/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/preranahadadi/Leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/preranahadadi/Leetcode-problems/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/preranahadadi/Leetcode-problems/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/preranahadadi/Leetcode-problems/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/preranahadadi/Leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/preranahadadi/Leetcode-problems/tree/master/0680-valid-palindrome-ii) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/preranahadadi/Leetcode-problems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/preranahadadi/Leetcode-problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/preranahadadi/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/preranahadadi/Leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
