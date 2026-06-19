@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/preranahadadi/Leetcode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/preranahadadi/Leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/preranahadadi/Leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/preranahadadi/Leetcode-problems/tree/master/0572-subtree-of-another-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/preranahadadi/Leetcode-problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/preranahadadi/Leetcode-problems/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Depth-First Search
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/preranahadadi/Leetcode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/preranahadadi/Leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/preranahadadi/Leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/preranahadadi/Leetcode-problems/tree/master/0572-subtree-of-another-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/preranahadadi/Leetcode-problems/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Binary Tree
 |  |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/preranahadadi/Leetcode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/preranahadadi/Leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/preranahadadi/Leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/preranahadadi/Leetcode-problems/tree/master/0572-subtree-of-another-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/preranahadadi/Leetcode-problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/preranahadadi/Leetcode-problems/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Breadth-First Search
@@ -323,4 +326,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/preranahadadi/Leetcode-problems/tree/master/1863-sum-of-all-subset-xor-totals) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/preranahadadi/Leetcode-problems/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/preranahadadi/Leetcode-problems/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
